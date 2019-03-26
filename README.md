@@ -1,3 +1,3 @@
 # Zero Template
 ### Starter template for a basic HTML and CSS website
-These files provide a starting point for a first webpage.  It is responsive and has a moderately easy to customize navigation.
+Includes Bootstrap, Font Awesome, jQuery, and an empty css and js file
